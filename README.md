@@ -1,6 +1,6 @@
 Odin-Recipes
 
-A simple webpage about recipes.
-Recipes: 
-    1. Spaghetti with Shrimps and Tomatoes
-    2. Nachos with a fresh Guacamole Dip
+A simple webpage about recipes.<br>
+Recipes:<br>
+    1. Spaghetti with Shrimps and Tomatoes<br>
+    2. Nachos with a fresh Guacamole Dip<br>
